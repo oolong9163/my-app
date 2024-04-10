@@ -1,6 +1,6 @@
 containers:
-  - name: react_app_container
-    location: ./Dockerfile
+  - name: my-app
+    location: /Dockerfile
     profile: null
     resources:
       cpu: 2
